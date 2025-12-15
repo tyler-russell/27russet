@@ -1,3 +1,7 @@
 site_name: Engineering in Motion Final Project Site
 theme:
-    name: material
+  name: null
+  custom_dir: 'cinder'
+  colorscheme: 'monokai'
+nav:
+  - Home: index.md
