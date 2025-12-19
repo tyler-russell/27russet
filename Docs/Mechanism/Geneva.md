@@ -21,3 +21,6 @@ For a more detailed look at the mechanism click [here.](https://ecommons.cornell
 I had to learn how to use Fusion Joints in order to create the motion set for this design. At first I tried animating the motion but later found out that was not what I was suppose to do for this project and I had to start over. I made both the pin wheel and the Geneva wheel have revolute joints around their center points and enabled contact sets between all of the components so that they all obyed the laws of physics and would not just pass through each other. 
 ## Assembled Final Design 
 
+## What I learned 
+I learned how the Geneva mechanism produces intermittent rotational motion by precisely controlling the contact between the drive pin and the Geneva wheel slots. I gained experience using revolute joints and contact sets in Fusion 360 to accurately simulate complex motion and non-moving periods. This project also taught me the importance of correct joint selection over simple animation to ensure physically and more accurate kinematic behavior that models the real world.
+
