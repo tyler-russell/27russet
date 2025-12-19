@@ -38,7 +38,7 @@ Each mechanism below includes an explanation, how it works, and real-world appli
 **[Four-Bar Linkage](..Mechanism/Four-Bar-Linkage.md)**
 
 ###  Geneva Mechanism
- **[Geneva Mechanism](../Mechanism/Geneva.md)**
+ **[Geneva Mechanism](Geneva.md)**
 
 ###  Scotch Yoke
  **[Scotch Yoke](../Mechanism/Scotch-Yoke.md)**
