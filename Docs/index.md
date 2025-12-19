@@ -19,14 +19,14 @@ Use the navigation buttons at the **top of the page**, or click any of the links
 ### About Me
 Learn more about who I am and my interest in engineering.
 
-**[About Me](../docs/)**
+**[About Me](..About%20Me/About-me.md)**
 
 ---
 
 ### Project Overview
 An overview of the goals, requirements, and outcomes of my final project.
 
- **[Project Overview](../docs/Project%20Overview.md)**
+ **[Project Overview](../Project%20Overview.md)**
 
 ---
 
@@ -35,13 +35,13 @@ An overview of the goals, requirements, and outcomes of my final project.
 Each mechanism below includes an explanation, how it works, and real-world applications.
 
 ###  Four-Bar Linkage
-**[Four-Bar Linkage](../docs/Mechanism/Four-Bar%20Linkage.md)**
+**[Four-Bar Linkage](..Mechanism/Four-Bar-Linkage.md)**
 
 ###  Geneva Mechanism
- **[Geneva Mechanism](../docs/Mechanism/Geneva.md)**
+ **[Geneva Mechanism](../Mechanism/Geneva.md)**
 
 ###  Scotch Yoke
- **[Scotch Yoke](../docs/Mechanism/Scotch-Yoke.md)**
+ **[Scotch Yoke](../Mechanism/Scotch-Yoke.md)**
 
 ---
 
