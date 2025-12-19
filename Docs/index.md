@@ -16,17 +16,17 @@ Use the navigation buttons at the **top of the page**, or click any of the links
 
 ## Site Pages
 
-### 🧑 About Me
+### About Me
 Learn more about who I am and my interest in engineering.
 
-👉 **[About Me](About%20Me/About%20me.md)**
+**[About Me](About%20Me/About%20me.md)**
 
 ---
 
-### 🛠️ Project Overview
+### Project Overview
 An overview of the goals, requirements, and outcomes of my final project.
 
-👉 **[Project Overview](Project%20Overview.md)**
+ **[Project Overview](Project%20Overview.md)**
 
 ---
 
@@ -34,14 +34,14 @@ An overview of the goals, requirements, and outcomes of my final project.
 
 Each mechanism below includes an explanation, how it works, and real-world applications.
 
-### 🔗 Four-Bar Linkage
-👉 **[Four-Bar Linkage](Mechanism/Four-Bar%20Linkage.md)**
+###  Four-Bar Linkage
+**[Four-Bar Linkage](Mechanism/Four-Bar%20Linkage.md)**
 
-### ⚙️ Geneva Mechanism
-👉 **[Geneva Mechanism](Mechanism/Geneva.md)**
+###  Geneva Mechanism
+ **[Geneva Mechanism](Mechanism/Geneva.md)**
 
-### 🔄 Scotch Yoke
-👉 **[Scotch Yoke](Mechanism/Scotch%20Yoke.md)**
+###  Scotch Yoke
+ **[Scotch Yoke](Mechanism/Scotch%20Yoke.md)**
 
 ---
 
@@ -49,7 +49,7 @@ Each mechanism below includes an explanation, how it works, and real-world appli
 
 Below is a link to my final presentation slides summarizing my project:
 
-👉 **[View My Google Slides Presentation](https://docs.google.com/presentation/d/e/2PACX-1vQWlu_kDB8giL33EiWioU-OWwCsSLR0TECNCS-iN6naGt4aDY3YB0rAkGLYlXBC9-gLwebYEgmXZ8lt/pub?start=false&loop=false&delayms=5000)**
+ **[View My Google Slides Presentation](https://docs.google.com/presentation/d/e/2PACX-1vQWlu_kDB8giL33EiWioU-OWwCsSLR0TECNCS-iN6naGt4aDY3YB0rAkGLYlXBC9-gLwebYEgmXZ8lt/pub?start=false&loop=false&delayms=5000)**
 
 ---
 
