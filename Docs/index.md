@@ -1,17 +1,6 @@
-# Welcome to MkDocs
+# Welcome to my Engineering in Motion Final Project Site
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Hello! My name is Tyler Russell and you are currently on my documentation website where I will detail to you exactly what I did for my final project of Engineering in Motion for the first semester of my junior year in high school. Part of that project was learning, creating, and publishing this site to the internet where it will hopefully get some attention by anyone interested. Thank you. 
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## How to Use
+Click the buttons on the top  of the screen to move around the site. 

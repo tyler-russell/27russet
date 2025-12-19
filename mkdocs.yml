@@ -5,3 +5,8 @@ theme:
   colorscheme: 'monokai'
 nav:
   - Home: index.md
+  - About Me: About me.md
+  - Section 2:
+      - Subpage A: subpageA.md
+      - Subpage B: subpageB.md
+  - Another Page: another-page.md
