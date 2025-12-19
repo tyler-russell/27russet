@@ -1,1 +1,1 @@
-Please Click [here](index.md) to get to my homepage. 
+Please Click [here](Docs/index.md) to get to my homepage. 
