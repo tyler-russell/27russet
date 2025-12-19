@@ -2,11 +2,13 @@ site_name: Engineering in Motion Final Project Site
 theme:
   name: null
   custom_dir: 'cinder'
-  colorscheme: 'monokai'
+  colorscheme: 'Cinder Superhero'
 nav:
   - Home: index.md
   - About Me: About me.md
-  - Section 2:
-      - Subpage A: subpageA.md
-      - Subpage B: subpageB.md
+  - Project Overview: Project Overview.md
+  - Mechanisms:
+      - Four-Bar Linkage: Mechanism/Four-Bar Linkage.md
+      - Geneva: Mechanism/Geneva.md
+      - Scotch Yoke: Mechanism/Scotch Yoke.md
   - Another Page: another-page.md
