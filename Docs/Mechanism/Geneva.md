@@ -15,8 +15,9 @@ For a more detailed look at the mechanism click [here.](https://ecommons.cornell
 ## Fusion Motion Set 
 
 <video width="640" controls>
-    <source src="" type="video/mp4">
+    <source src="../../Mechanism/Videos/Geneva Mechanism Final .mp4" type="video/mp4">
 </video>
 
+I had to learn how to use Fusion Joints in order to create the motion set for this design. At first I tried animating the motion but later found out that was not what I was suppose to do for this project and I had to start over. I made both the pin wheel and the Geneva wheel have revolute joints around their center points and enabled contact sets between all of the components so that they all obyed the laws of physics and would not just pass through each other. 
 ## Assembled Final Design 
 
