@@ -4,3 +4,8 @@ Hello! My name is Tyler Russell and you are currently on my documentation websit
 
 ## How to Use
 Click the buttons on the top  of the screen to move around the site. 
+
+## Slides Below is an Embedded link to my Presentation Slides
+
+[View My Google Slides Presentation](https://docs.google.com/presentation/d/e/2PACX-1vQWlu_kDB8giL33EiWioU-OWwCsSLR0TECNCS-iN6naGt4aDY3YB0rAkGLYlXBC9-gLwebYEgmXZ8lt/pub?start=false&loop=false&delayms=5000)
+

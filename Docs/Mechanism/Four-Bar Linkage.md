@@ -4,6 +4,7 @@ Four-Bar Linkage A four-bar linkage is one of the simplest and most versatile me
 
 For a more detailed look at the mechanism click [here.](https://dynref.engr.illinois.edu/aml.html)
 ## Example of a Scotch Yoke 
+
 ![](../Mechanism/Images/download (6).png)
 
 ## Fusion Model 
@@ -18,6 +19,8 @@ For a more detailed look at the mechanism click [here.](https://dynref.engr.illi
 
 I made all the pin joints have revolution joints but constricted the base joints to not being able to spin 360 degrees to provide a different type of four back linkage: a double-rocker mechanism. Of course contact sets remained on. 
 ## Assembled Final Design 
+
+![](../Mechanism/Images/IMG_0029 Medium.jpeg)
 
 ## What I learned
 I learned how link length and ground constraints to determine the mobility and classification of a four-bar linkage, specifically how limiting joint rotation can produce a double-rocker mechanism. I gained experience applying revolute joints and motion constraints in Fusion 360 to accurately simulate the kinematic behavior. This project also reinforced the importance of contact sets, group components that do not move, and joint limits in achieving the perfect mechanical motion without over-constraining the system.

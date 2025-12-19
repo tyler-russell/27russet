@@ -20,5 +20,7 @@ For a more detailed look at the mechanism click [here.](https://jiga.io/articles
 I made the pin wheel have a revolute joint so it could spin whilst giving the yoke a sliding joint so it could only move in a linear fashion. Of course contact sets remained on. 
 ## Assembled Final Design 
 
+![](../Mechanism/Images/IMG_0028 Medium.jpeg)
+
 ## What I Learned
 I learned how a Scotch yoke converts rotational motion into linear reciprocating motion through the interaction of a revolute joint and a sliding joint. I gained experience modeling constrained linear motion in Fusion 360 by correctly applying slider joints and maintaining proper contact between the pin and yoke slot with the (very important) correct dimensions. This project also helped me understand the trade-offs of the mechanism, particularly how increased sliding friction and contact stresses affect wear, efficiency, and how long a part lasts.
