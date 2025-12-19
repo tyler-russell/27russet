@@ -53,7 +53,6 @@ Below is a link to my final presentation slides summarizing my project:
 
 ---
 
-
 ## Thank You
 
-I hope you enjoy exploring my Engineering in Motion final project!
+I hope you enjoy exploring my Engineering in Motion final project! Bye!
