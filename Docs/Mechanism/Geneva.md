@@ -4,5 +4,19 @@ A Geneva Mechanism is a gear system that converts constant rotary motion into in
 
 For a more detailed look at the mechanism click [here.](https://ecommons.cornell.edu/server/api/core/bitstreams/4686812a-7d97-47e4-8f46-1fb663eb41fd/content) This really helped me with the designing portion of the project.
 
-![](Images/Geneva-mechanism.jpg)
+## Example of a Geneva Mechanism
+
+![](../Mechanism/Images/Geneva-mechanism.jpg)
+
+## Fusion Model 
+
+<iframe src="https://charlottelatin274.autodesk360.com/shares/public/SH28cd1QT2badd0ea72b7049d3f6fb6a0ac8?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+## Fusion Motion Set 
+
+<video width="640" controls>
+    <source src="" type="video/mp4">
+</video>
+
+## Assembled Final Design 
 

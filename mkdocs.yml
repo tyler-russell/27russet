@@ -5,7 +5,7 @@ theme:
   colorscheme: 'Cinder Superhero'
 nav:
   - Home: index.md
-  - About Me: About me.md
+  - About Me: About Me/About me.md
   - Project Overview: Project Overview.md
   - Mechanisms:
       - Four-Bar Linkage: Mechanism/Four-Bar Linkage.md
