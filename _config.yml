@@ -1,13 +1,11 @@
-theme: jekyll-theme-Minima
+theme: jekyll-theme-minima
 title: Tyler Russell - Mechanisms Portfolio
 description: Engineering mechanisms and designs
 
-# Navigation
 header_pages:
-- Home: index.md
-  - About Me: About Me/About me.md
-  - Project Overview: Project Overview.md
-  - Mechanisms:
-      - Four-Bar Linkage: Mechanism/Four-Bar Linkage.md
-      - Geneva: Mechanism/Geneva.md
-      - Scotch Yoke: Mechanism/Scotch Yoke.md
+  - index.md
+  - About Me/About me.md
+  - Project Overview.md
+  - Mechanism/Four-Bar Linkage.md
+  - Mechanism/Geneva.md
+  - Mechanism/Scotch Yoke.md
